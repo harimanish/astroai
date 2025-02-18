@@ -19,8 +19,8 @@ const getRandomClass = () => {
 ---
 
 <section class="flex flex-col text-center gap-4 " >
-  <p class="text-pblack">It is necessary to observe.</p>
-  <h2 class="text-4xl font-bold">Treated like a portrait.</h2>
+  <p class="text-pblack">What do we have here...</p>
+  <h2 class="text-4xl font-bold">Have a read</h2>
   <ul class="flex flex-wrap justify-center md:justify-start gap-8 py-20">
     {
       posts.map((post) => {
@@ -34,11 +34,11 @@ const getRandomClass = () => {
                 <Icon name={post.data.icon} />
               </div>
               <h4 class="text-xl font-semibold">{post.data.title}</h4>
-              <p class="date -mt-4 text-sm font-light">
+              {/* <p class="date -mt-4 text-sm font-light">
                 <FormattedDate date={post.data.pubDate} />
-              </p>
+              </p> */}
             </a>
-            <div set:html={post.data.description} />
+            {/* <div set:html={post.data.description} /> */}
           </li>
         );
       })
