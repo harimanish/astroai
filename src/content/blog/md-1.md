@@ -24,8 +24,11 @@ heroImage: "/src/assets/adriana.jpg"
 - https://huggingface.co/spaces
 - https://notebooklm.google.com/
 - https://artificialanalysis.ai/
+- https://github.com/microsoft/OmniParser
 - https://github.com/qdrant/qdrant
 - https://github.com/black-forest-labs/flux
+- https://huggingface.co/spaces/lmarena-ai/chatbot-arena-leaderboard
+- https://github.com/deepseek-ai/DeepSeek-R1/commit/7ca5e1e7f75e12a1c561fffaa6aa686708f881ae
 - # References
 - https://research.google/blog/transformer-a-novel-neural-network-architecture-for-language-understanding/
 - https://www.anthropic.com/research/constitutional-classifiers
@@ -33,3 +36,6 @@ heroImage: "/src/assets/adriana.jpg"
 - https://arxiv.org/html/2501.18837v1 or https://arxiv.org/pdf/2501.18837v1
 - https://arxiv.org/pdf/2312.02120
 - https://arxiv.org/pdf/2406.14972v1
+- https://arxiv.org/pdf/2502.07316v2
+- https://arxiv.org/pdf/2501.19324
+- https://arxiv.org/pdf/2502.09956
