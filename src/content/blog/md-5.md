@@ -1,7 +1,7 @@
 ---
-title: "Traditional ML"
+title: "Transformers to Vision Transformers"
 description:
-    'Traditional machine learning methods, their strengths, and inherent shortcomings.
+    'Explore the evolution from classical neural networks to advanced models like transformers and vision transformers.
     '
 icon: "1"
 pubDate: "Jun 19 2024"
